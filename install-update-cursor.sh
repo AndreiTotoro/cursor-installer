@@ -324,4 +324,3 @@ echo -e "${GREEN}║                                                   ║${NC}"
 echo -e "${GREEN}╚═══════════════════════════════════════════════════╝${NC}"
 echo ""
 
-read -p "$(echo -e "${CYAN}Press Enter to exit...${NC}")"
